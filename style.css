@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background: linear-gradient(180deg, #fefefe, #eef6ff);
+}
+header h1 {
+  color: #1d4ed8;
+}
+button {
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
