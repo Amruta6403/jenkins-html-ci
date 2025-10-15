@@ -1,4 +1,15 @@
-body{font-family:Arial, sans-serif;margin:2rem;background:#f5faff}
-h1{color:#1d4ed8}
-button{padding:8px 14px;border-radius:6px;border:none;background:#1d4ed8;color:#fff;cursor:pointer}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f2f6fc;
+}
+h1 { color: #007bff; }
+button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
 
